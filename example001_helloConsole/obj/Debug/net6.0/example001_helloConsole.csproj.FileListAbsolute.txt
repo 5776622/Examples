@@ -1,0 +1,15 @@
+E:\учеба\Знакомство с языком программирования C#\Examples\example001_helloConsole\bin\Debug\net6.0\example001_helloConsole.exe
+E:\учеба\Знакомство с языком программирования C#\Examples\example001_helloConsole\bin\Debug\net6.0\example001_helloConsole.deps.json
+E:\учеба\Знакомство с языком программирования C#\Examples\example001_helloConsole\bin\Debug\net6.0\example001_helloConsole.runtimeconfig.json
+E:\учеба\Знакомство с языком программирования C#\Examples\example001_helloConsole\bin\Debug\net6.0\example001_helloConsole.dll
+E:\учеба\Знакомство с языком программирования C#\Examples\example001_helloConsole\bin\Debug\net6.0\example001_helloConsole.pdb
+E:\учеба\Знакомство с языком программирования C#\Examples\example001_helloConsole\obj\Debug\net6.0\example001_helloConsole.csproj.AssemblyReference.cache
+E:\учеба\Знакомство с языком программирования C#\Examples\example001_helloConsole\obj\Debug\net6.0\example001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\учеба\Знакомство с языком программирования C#\Examples\example001_helloConsole\obj\Debug\net6.0\example001_helloConsole.AssemblyInfoInputs.cache
+E:\учеба\Знакомство с языком программирования C#\Examples\example001_helloConsole\obj\Debug\net6.0\example001_helloConsole.AssemblyInfo.cs
+E:\учеба\Знакомство с языком программирования C#\Examples\example001_helloConsole\obj\Debug\net6.0\example001_helloConsole.csproj.CoreCompileInputs.cache
+E:\учеба\Знакомство с языком программирования C#\Examples\example001_helloConsole\obj\Debug\net6.0\example001_helloConsole.dll
+E:\учеба\Знакомство с языком программирования C#\Examples\example001_helloConsole\obj\Debug\net6.0\refint\example001_helloConsole.dll
+E:\учеба\Знакомство с языком программирования C#\Examples\example001_helloConsole\obj\Debug\net6.0\example001_helloConsole.pdb
+E:\учеба\Знакомство с языком программирования C#\Examples\example001_helloConsole\obj\Debug\net6.0\example001_helloConsole.genruntimeconfig.cache
+E:\учеба\Знакомство с языком программирования C#\Examples\example001_helloConsole\obj\Debug\net6.0\ref\example001_helloConsole.dll
