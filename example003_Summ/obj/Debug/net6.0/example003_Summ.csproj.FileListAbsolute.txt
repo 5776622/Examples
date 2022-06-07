@@ -1,0 +1,15 @@
+E:\учеба\Знакомство с языком программирования C#\Examples\example003_Summ\bin\Debug\net6.0\example003_Summ.exe
+E:\учеба\Знакомство с языком программирования C#\Examples\example003_Summ\bin\Debug\net6.0\example003_Summ.deps.json
+E:\учеба\Знакомство с языком программирования C#\Examples\example003_Summ\bin\Debug\net6.0\example003_Summ.runtimeconfig.json
+E:\учеба\Знакомство с языком программирования C#\Examples\example003_Summ\bin\Debug\net6.0\example003_Summ.dll
+E:\учеба\Знакомство с языком программирования C#\Examples\example003_Summ\bin\Debug\net6.0\example003_Summ.pdb
+E:\учеба\Знакомство с языком программирования C#\Examples\example003_Summ\obj\Debug\net6.0\example003_Summ.csproj.AssemblyReference.cache
+E:\учеба\Знакомство с языком программирования C#\Examples\example003_Summ\obj\Debug\net6.0\example003_Summ.GeneratedMSBuildEditorConfig.editorconfig
+E:\учеба\Знакомство с языком программирования C#\Examples\example003_Summ\obj\Debug\net6.0\example003_Summ.AssemblyInfoInputs.cache
+E:\учеба\Знакомство с языком программирования C#\Examples\example003_Summ\obj\Debug\net6.0\example003_Summ.AssemblyInfo.cs
+E:\учеба\Знакомство с языком программирования C#\Examples\example003_Summ\obj\Debug\net6.0\example003_Summ.csproj.CoreCompileInputs.cache
+E:\учеба\Знакомство с языком программирования C#\Examples\example003_Summ\obj\Debug\net6.0\example003_Summ.dll
+E:\учеба\Знакомство с языком программирования C#\Examples\example003_Summ\obj\Debug\net6.0\refint\example003_Summ.dll
+E:\учеба\Знакомство с языком программирования C#\Examples\example003_Summ\obj\Debug\net6.0\example003_Summ.pdb
+E:\учеба\Знакомство с языком программирования C#\Examples\example003_Summ\obj\Debug\net6.0\example003_Summ.genruntimeconfig.cache
+E:\учеба\Знакомство с языком программирования C#\Examples\example003_Summ\obj\Debug\net6.0\ref\example003_Summ.dll
