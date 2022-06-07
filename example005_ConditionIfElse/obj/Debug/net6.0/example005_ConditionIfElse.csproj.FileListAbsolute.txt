@@ -1,0 +1,15 @@
+E:\учеба\Знакомство с языком программирования C#\Examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.csproj.AssemblyReference.cache
+E:\учеба\Знакомство с языком программирования C#\Examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+E:\учеба\Знакомство с языком программирования C#\Examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.AssemblyInfoInputs.cache
+E:\учеба\Знакомство с языком программирования C#\Examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.AssemblyInfo.cs
+E:\учеба\Знакомство с языком программирования C#\Examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+E:\учеба\Знакомство с языком программирования C#\Examples\example005_ConditionIfElse\bin\Debug\net6.0\example005_ConditionIfElse.exe
+E:\учеба\Знакомство с языком программирования C#\Examples\example005_ConditionIfElse\bin\Debug\net6.0\example005_ConditionIfElse.deps.json
+E:\учеба\Знакомство с языком программирования C#\Examples\example005_ConditionIfElse\bin\Debug\net6.0\example005_ConditionIfElse.runtimeconfig.json
+E:\учеба\Знакомство с языком программирования C#\Examples\example005_ConditionIfElse\bin\Debug\net6.0\example005_ConditionIfElse.dll
+E:\учеба\Знакомство с языком программирования C#\Examples\example005_ConditionIfElse\bin\Debug\net6.0\example005_ConditionIfElse.pdb
+E:\учеба\Знакомство с языком программирования C#\Examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.dll
+E:\учеба\Знакомство с языком программирования C#\Examples\example005_ConditionIfElse\obj\Debug\net6.0\refint\example005_ConditionIfElse.dll
+E:\учеба\Знакомство с языком программирования C#\Examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.pdb
+E:\учеба\Знакомство с языком программирования C#\Examples\example005_ConditionIfElse\obj\Debug\net6.0\example005_ConditionIfElse.genruntimeconfig.cache
+E:\учеба\Знакомство с языком программирования C#\Examples\example005_ConditionIfElse\obj\Debug\net6.0\ref\example005_ConditionIfElse.dll
